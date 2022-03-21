@@ -12,17 +12,13 @@ In this project we analyze flights during Covid19 period from the graph prespect
 
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
-
-> Use short lowercase names at least for the top-level files and folders except
-> `LICENSE`, `README.md`
-
-
-
-## Downloading data
+    ├── current_notebooks                   # up to date jupiter notebooks with the code
+    ├── data                    
+    ├── doc                     # documents
+    ├── gephi_graphs                     # ready gephi graphs
+    ├── images                    
+    ├── networkx_graphs                   # graphs from networkx that are ready for gephi visualization
+    ├── old_notebooks
+    ├── Complex networks - project.pdf         # project report
+    ├── README.md
+    └── requierments.txt
