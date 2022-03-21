@@ -1,6 +1,6 @@
 # tau-network-science
-This repo is for project X that was done as part of cosure XXX
-In this project we reimplemented paperlinkYYY using ZZ
+This repo is for project that was done as part of Complex networks course at TAU.
+In this project we analyze flights during Covid19 period from the graph prespective.
 
 
 Insert image
