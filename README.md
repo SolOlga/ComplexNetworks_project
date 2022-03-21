@@ -12,7 +12,7 @@ In this project we analyze flights during Covid19 period from the graph prespect
 
 
     .
-    ├── current_notebooks                   # up to date jupiter notebooks with the code
+    ├── current_notebooks                   # up-to-date jupiter notebooks with the code
     ├── data                    
     ├── doc                                 # documents
     ├── gephi_graphs                        # ready gephi graphs
