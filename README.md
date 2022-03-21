@@ -8,10 +8,8 @@ In this project we analyze flights during Covid19 period from the graph prespect
 
 
 
-## Directory sturcture
-> Folder structure options and naming conventions for software projects
+### Directory sturcture
 
-### A typical top-level directory layout
 
     .
     ├── build                   # Compiled files (alternatively `dist`)
